@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class StringChangeCase {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter string:");
         StringBuilder str = new StringBuilder(sc.nextLine());
