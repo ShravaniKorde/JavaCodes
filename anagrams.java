@@ -16,7 +16,7 @@ public class anagrams{
 
 }
 }
-
+//---------------------------------2nd soln----------------------------
 //without built in functions
 // public class anagrams{
 //     public static void main(String[] args){
