@@ -9,7 +9,7 @@ public class anagrams{
         char[] a1=str1.toCharArray();   
         char[] a2=str2.toCharArray();
 
-        Arrays.sort(a1);    //sorts based on ACII values
+        Arrays.sort(a1);    // sorts based on ACII values
         Arrays.sort(a2);
 
         System.out.println(Arrays.equals(a1,a2));
